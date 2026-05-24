@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import MachineForm from "./Machineform";
-import MachineList from "./Machinelist";
+import MachineForm from "./MachineForm";
+import MachineList from "./MachineList";
 
 const App = () => {
 
@@ -10,15 +10,7 @@ const App = () => {
     const saved = localStorage.getItem("machines");
     return saved ? JSON.parse(saved) : [];
   });
-//parse string
-  /*
-  id:1,
-  machionmename:>"cnc",
-  status:
-  tempate:
-  lastupdate
-  
-  */
+
 
 
 
