@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Machine-Monitoring-Dashboard/static/css/main.1d7e6af5.css",
+    "main.js": "/Machine-Monitoring-Dashboard/static/js/main.c4da9ee3.js",
+    "index.html": "/Machine-Monitoring-Dashboard/index.html",
+    "main.1d7e6af5.css.map": "/Machine-Monitoring-Dashboard/static/css/main.1d7e6af5.css.map",
+    "main.c4da9ee3.js.map": "/Machine-Monitoring-Dashboard/static/js/main.c4da9ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7e6af5.css",
+    "static/js/main.c4da9ee3.js"
+  ]
+}
