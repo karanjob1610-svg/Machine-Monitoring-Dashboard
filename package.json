@@ -2,7 +2,7 @@
   "name": "machine-monitoring-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://karanjob1610-svg.github.io/Machine-Monitoring-Dashboard",
+  "homepage": "https://karanjob1610-svg.github.io/Machine-Monitoring-Dashboard/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
